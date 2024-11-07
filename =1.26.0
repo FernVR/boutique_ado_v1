@@ -1,0 +1,6 @@
+Found existing installation: urllib3 1.25.7
+Uninstalling urllib3-1.25.7:
+  Would remove:
+    /workspace/.pip-modules/lib/python3.12/site-packages/urllib3-1.25.7.dist-info/*
+    /workspace/.pip-modules/lib/python3.12/site-packages/urllib3/*
+Proceed (Y/n)? 
