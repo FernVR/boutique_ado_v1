@@ -28,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-pcw$c+5qxd$t940+&5iy4cj2jwd^*b5(7&=zl(cq!#4urch*e^'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['8000-fernvr-boutiqueadov1-nvy1rp007hf.ws.codeinstitute-ide.net', 'boutique-ado-fvr.heroku.com', 'localhost',]
 
